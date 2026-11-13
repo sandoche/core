@@ -1,0 +1,41 @@
+{
+  "repository": "sandoche/core",
+  "pr": 1,
+  "formats": {
+    "walkthrough": {
+      "download": "walkthrough.html.zip",
+      "originalHtmlSha256": "840836e05ef41c3b320ff0165e79944b3e997594cd9c7ea8c90475ade54a96df",
+      "sourceHead": "3a3bd842cad433462697f329c3dceaf274b3847d",
+      "contextHash": "1076ee457166d550ac00a67cd4343864ff191d1d2ce3b99199725091ee5e3402"
+    },
+    "reverse-design": {
+      "download": "reverse-design.html.zip",
+      "originalHtmlSha256": "ce199060bce4f751da629236e1a2aead8c5c1bb7de1ccd3ec32957359373226a",
+      "sourceHead": "3a3bd842cad433462697f329c3dceaf274b3847d",
+      "contextHash": "1076ee457166d550ac00a67cd4343864ff191d1d2ce3b99199725091ee5e3402"
+    },
+    "code-map": {
+      "download": "code-map.html.zip",
+      "originalHtmlSha256": "869d865132da262e95adbb6c949b9def7c477e88c4256598a457bf22d38ed409",
+      "sourceHead": "3a3bd842cad433462697f329c3dceaf274b3847d",
+      "contextHash": "1076ee457166d550ac00a67cd4343864ff191d1d2ce3b99199725091ee5e3402"
+    },
+    "review-quiz": {
+      "download": "review-quiz.html.zip",
+      "originalHtmlSha256": "8da57ab51158bc1b1485dbdba9c77bb03282dd42f21edbc301c824a5157c85b3",
+      "sourceHead": "3a3bd842cad433462697f329c3dceaf274b3847d",
+      "contextHash": "1076ee457166d550ac00a67cd4343864ff191d1d2ce3b99199725091ee5e3402"
+    },
+    "xkcd": {
+      "download": "xkcd.html.zip",
+      "originalHtmlSha256": "c2f31f82fc25cceb65c5bf766e7fe16e3a1b3bc3a6d854126d21d3541247261c",
+      "sourceHead": "3a3bd842cad433462697f329c3dceaf274b3847d",
+      "contextHash": "1076ee457166d550ac00a67cd4343864ff191d1d2ce3b99199725091ee5e3402",
+      "images": [
+        "comic-01.png",
+        "comic-02.png",
+        "comic-03.png"
+      ]
+    }
+  }
+}
